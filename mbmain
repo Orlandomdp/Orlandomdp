@@ -24,4 +24,4 @@ case $OPTION in
    sleep 1
 esac
 clear
-mbsmain
+mbmain
