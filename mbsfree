@@ -11,4 +11,4 @@ curl -sO https://raw.githubusercontent.com/Orlandomdp/Orlandomdp/main/mbmain && 
 cd $HOME
 rm mbmain > /dev/null 2>&1
 clear
-mbsfree
+mbmain
