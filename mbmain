@@ -15,7 +15,7 @@ read OPTION
 case $OPTION in
         (1) mbsfree1
         ;;
-        (2) mbsfree2
+        (2) mbfree2
         ;;
         (3) exit
         ;;
