@@ -9,6 +9,6 @@ curl -sO https://raw.githubusercontent.com/Orlandomdp/Orlandomdp/main/mbfree2 &&
 rm mbmain > /dev/null 2>&1
 curl -sO https://raw.githubusercontent.com/Orlandomdp/Orlandomdp/main/mbmain && chmod 777 mbmain > /dev/null 2>&1
 cd $HOME
-rm mbfree > /dev/null 2>&1
+rm mbmain > /dev/null 2>&1
 clear
 mbsfree
