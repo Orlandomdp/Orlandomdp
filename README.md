@@ -16,7 +16,7 @@
 <br>
       
 <div align="center">
-  <img src="(https://i.imgur.com/Y90Hc8Q.gif)" width="400">
+  <img src="https://i.imgur.com/Y90Hc8Q.gif" width="400">
 </div>
 
 
