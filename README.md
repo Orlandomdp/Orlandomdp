@@ -8,7 +8,9 @@
       Olá, meu nome é Orlando !
       <br>
       </div>
+      <br>
      <p dir="auto"><strong>My Certification Badges:</strong>
+       <br>
       <a href="https://www.credly.com/earner/earned/badge/ea97a4e2-7af4-430b-905e-4415381fe4b0">
     <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
       </p>
