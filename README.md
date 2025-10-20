@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
-
+![](https://komarev.com/ghpvc/?username=Orlandomdp&color=green)
 <div align="center">
   <samp>
     <b>
@@ -9,7 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="![](https://komarev.com/ghpvc/?username=Orlandomdp&color=green)" /></p> 
+  <p align="center"><img align="center" src="" /></p> 
 </div>
       
 <br>
