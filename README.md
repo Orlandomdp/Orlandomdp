@@ -15,6 +15,17 @@
     <img alt="AWS Cloud Practitioner Badge" width="160px" src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"/>
       </p>
 </a>
+        <a href="https://www.credly.com/earner/earned/badge/9a14ee82-6a61-4267-93ba-a5e1d12852e5">
+    <img alt="CyberOpsAssoc Badge" width="160px" src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png"/> 
+</a>
+
+ <a href="https://www.credly.com/earner/earned/badge/caa5d0a6-e499-409b-8f6b-b84628fcaa9a">
+    <img alt="Network_Security" width="160px" src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png"/> 
+</a>
+
+ <a href="https://www.credly.com/earner/earned/badge/5aa09d43-63cf-46d6-8b68-6f71489d0e04">
+    <img alt="Cyber Threat Management" width="160px" src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png"/> 
+</a>
   </div>
       
 </div>
